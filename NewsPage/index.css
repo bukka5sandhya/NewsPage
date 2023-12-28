@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+}
+.bg-container{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size:cover;
+    height:100vh;
+}
+.card{
+    background-color: #ffffff;
+    border-top-right-radius: 25px;
+    border-top-left-radius:25px ;
+    padding:10px;
+    border-width: 0px;
+}
+.heading{
+
+    color:#7b8794;
+    font-family:"Roboto";
+    font-size:20px;
+    padding:10px;
+}
+.para{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-size:40px;
+    padding:10px;
+    font-weight:bold;
+
+}
+.description{
+    color:#7b8794;
+    font-family:"Roboto";
+    font-size:15px;
+    padding:10px;
+    
+}
+.read-button{
+    border-radius: 10px;
+    border:none;
+    border-width:0px;
+    background-color: #323f4b;
+    color:#ffffff;
+    height:50px;
+    width:100px;
+}
